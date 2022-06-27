@@ -1,7 +1,7 @@
 # FA-Hexarotor
 Code for the fully actuated Hexa-rotor
 
-In order to update the original PX4 firmware from the PX4 Autopilot repository, first, you need to clone the master repository into your computer with the following command
+To update the original PX4 firmware from the PX4 Autopilot repository, first, you need to clone the master repository into your computer with the following command
 $ git clone https://github.com/PX4/PX4-Autopilot.git
 After that, one must replace the folders from this repository to the respective folders of the original PX4 firmware
 the folder MultirotorMixer must be replaced in PX4-Autopilot/src/lib/mixer/
